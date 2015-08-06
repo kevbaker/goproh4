@@ -9,7 +9,7 @@
 
 URL for streaming: http://10.5.5.9/gp/gpExec?p1=gpTsFeeder&a1=%22%22&c1=restart&p2=gpStream&a2=%22%22&c2=restart
 
-###Android decopilation APK
+###Android decompilation APK
 
 *Seems like apk have mix of an old and new api? Most of this methods didn't works on gopro4*
 
@@ -40,7 +40,7 @@ URL for streaming: http://10.5.5.9/gp/gpExec?p1=gpTsFeeder&a1=%22%22&c1=restart&
 * GAIN: http://10.5.5.9/camera/GA
 * HLS_SEGMENT_SIZE: http://10.5.5.9/camera/SS
 * IS_BOMBIE_ATTACHED: http://10.5.5.9/bombie_attached
-* IS_BROADCASTING: http://10.5.5.9/is_boradcasting
+* IS_BROADCASTING: http://10.5.5.9/is_broadcasting
 * IS_LCD_ATTACHED: http://10.5.5.9/lcd_attached
 * IS_LIVE_FEED: http://10.5.5.9/is_live_feed
 * IS_PREVIEW_ACTIVE: http://10.5.5.9/is_preview_active
